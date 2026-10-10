@@ -1,0 +1,1 @@
+void initWall(Pixel *buffer);
